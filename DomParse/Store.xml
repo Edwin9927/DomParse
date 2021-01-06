@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Tienda>
+    <Juego>
+        <Nombre>GTA V</Nombre>
+        <Genero>Mundo abierto</Genero>
+		<Fecha>2013</Fecha>
+		<Desarrollador>Rockstar Games</Desarrollador>
+		<Precio>24.99</Precio>
+		<Unidades>5</Unidades>
+    </Juego>
+	
+	<Juego>
+        <Nombre>CiberPunk 2077</Nombre>
+        <Genero>Mundo abierto</Genero>
+		<Fecha>2020</Fecha>
+		<Desarrollador>Projekt</Desarrollador>
+		<Precio>34.99</Precio>
+		<Unidades>1</Unidades>
+    </Juego>
+	
+	<Juego>
+        <Nombre>COD IV</Nombre>
+        <Genero>Disparos</Genero>
+		<Fecha>2017</Fecha>
+		<Desarrollador>Activision</Desarrollador>
+		<Precio>34.99</Precio>
+		<Unidades>2</Unidades>
+    </Juego>
+	
+	<Juego>
+        <Nombre>Halo 5</Nombre>
+        <Genero>Ciencia Ficcion, Disparos</Genero>
+		<Fecha>2018</Fecha>
+		<Desarrollador>Bungie Studios</Desarrollador>
+		<Precio>29.99</Precio>
+		<Unidades>8</Unidades>
+    </Juego>
+	
+	<Juego>
+        <Nombre>Minecraft</Nombre>
+        <Genero>Mundo abierto</Genero>
+		<Fecha>2010</Fecha>
+		<Desarrollador>Mojang</Desarrollador>
+		<Precio>14.99</Precio>
+		<Unidades>5</Unidades>
+    </Juego>
+	
+	<Juego>
+        <Nombre>Watch Dogs 2</Nombre>
+        <Genero>Mundo abierto</Genero>
+		<Fecha>2016</Fecha>
+		<Desarrollador>Ubisoft</Desarrollador>
+		<Precio>14.99</Precio>
+		<Unidades>7</Unidades>
+    </Juego>
+	
+	<Juego>
+        <Nombre>Assassin´s Creed - Origens</Nombre>
+        <Genero>Accion, Aventura</Genero>
+		<Fecha>2017</Fecha>
+		<Desarrollador>Ubisoft</Desarrollador>
+		<Precio>14.99</Precio>
+		<Unidades>5</Unidades>
+    </Juego>
+	
+	<Juego>
+        <Nombre>Resindent Evil 2 - Remake</Nombre>
+        <Genero>Horror, Supervivencia</Genero>
+		<Fecha>2019</Fecha>
+		<Desarrollador>Capcom</Desarrollador>
+		<Precio>18.99</Precio>
+		<Unidades>2</Unidades>
+    </Juego>
+	
+	<Juego>
+        <Nombre>God of War 4</Nombre>
+        <Genero>Accion, Aventura</Genero>
+		<Fecha>2018</Fecha>
+		<Desarrollador>SCE Santa Monica Studios</Desarrollador>
+		<Precio>62.99</Precio>
+		<Unidades>1</Unidades>
+    </Juego>
+</Tienda>
